@@ -41,7 +41,7 @@ int main() //punto de entrada
 //El "\t" sirve para tabular y se podria utilizar para crear una lista.
 //El sistema operativo es el que se encarga de llamar a la operacion
 //el contrabarra es: alt+92
-//el getche y el getch se utiliza con los caracteres
+//el getche (muestra la letra ingresada) y el getch (NO muestra la letra ingresada) se utiliza con los caracteres
 
 
 
